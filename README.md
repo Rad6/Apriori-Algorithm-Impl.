@@ -1,2 +1,2 @@
 ## Implementation of Apriori Algorithm
-Apriori is an algorithm for frequent item-set mining and association rule learning over relational databases. In this project we are given a grocery store dataset which includes items that are bought together. We are about to do an exploratory data analysis first, and then implement the apriori algorithm in order to find frequent individual items in the dataset.
+Apriori is an algorithm for frequent item-set mining and association rule learning over relational databases. In this project we are given a grocery store dataset which includes items that were bought together. We are about to perform an exploratory data analysis first, and then implement the apriori algorithm in order to find frequent individual items in the dataset.
